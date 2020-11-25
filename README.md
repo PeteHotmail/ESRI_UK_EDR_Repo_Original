@@ -117,3 +117,4 @@ e.g https://localhost:8443/doc
 
 ### Note
 *developers note: a number of hardcoded values exist within this code. They are expected to be removed in later stages of development and pulled into a configuration file. Please be aware that to change proxy targets at this version the developer must change the code.*
+Now in the repository https://github.com/PeteHotmail/ESRI_UK_Repo_Working.git
